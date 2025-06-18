@@ -1,13 +1,16 @@
 # Hi I'm João, a student from IFSP learning programation languages, design and some random things that I like
 
+<br>
+
 ## Know me acessing:
 - [Instagram](https://www.instagram.com/joao.pqc)
 - [LinkedIn](https://www.linkedin.com/in/jo%C3%A3o-paulo-queiroz-costa-2b784a358/)
 - [Leetcode](https://leetcode.com/u/5IMQy8234y/)
+  <br>
 
 ### Technologies I know/´m studying
-
-<p aling="left">
+<br>
+<p align="left">
 
 <img  src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" style=" width: 40px;"/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg" style=" width: 40px" />
