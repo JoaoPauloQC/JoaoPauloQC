@@ -1,5 +1,15 @@
 # Hi I'm João, a student from IFSP learning programation languages, design and some random things that I like
 
+```java
+public String isMe (Person person){
+  if (person.loveCoffee()){
+    return "It´s me!"
+  }else{
+    return "It´s not me"
+  }
+}
+```
+
 <br>
 
 ## Know me acessing:
