@@ -37,7 +37,7 @@ public String isMe (Person person){
 <br>
 <p align="left">
 
-<img style="height: 200px" align="left" src="https://github-readme-stats.vercel.app/api?username=JoaoPauloQC&show_icons=true&theme=algolia&include_all_commits=true&locale=pt-br">
+<img style="height: 200px" align="left" src="https://github-readme-stats.vercel.app/api?username=JoaoPauloQC&show_icons=true&theme=algolia&include_all_commits=true">
 
 <img  style="height: 200px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JoaoPauloQC&theme=algolia&layout=compact&custom_title=Technologies&langs_count=9">
 
@@ -47,7 +47,7 @@ public String isMe (Person person){
 ## Learning
 
 ## Now, I'm focusing on studying backend stuff, so I'm developing some simple projects to understand this world.
-### btw: I can say I have some experience on frontend ;)
+
 <br>
 <br>
 
