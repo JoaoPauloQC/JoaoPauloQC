@@ -2,7 +2,7 @@
 
 ```java
 public String isMe (Person person){
-  if (person.loveCoffee()){
+  if (person.lovesCoffee()){
     return "It´s me!"
   }else{
     return "It´s not me"
