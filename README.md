@@ -12,12 +12,14 @@ public String isMe (Person person){
 
 <br>
 <br>
+
 ## Know me acessing:
 - [Instagram](https://www.instagram.com/joao.pqc)
 - [LinkedIn](https://www.linkedin.com/in/jo%C3%A3o-paulo-queiroz-costa-2b784a358/)
 - [Leetcode](https://leetcode.com/u/5IMQy8234y/)
-  <br>
-  <br>
+  
+<br>
+<br>
 
 ### Technologies I know/´m studying
 <br>
