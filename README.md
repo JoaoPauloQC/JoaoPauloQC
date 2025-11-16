@@ -1,4 +1,6 @@
-# Hi I'm João, a student from IFSP learning Software Analysing and Development.
+<h1 align='center'> 
+   Hi I'm João, a student from IFSP learning Software Analysing and Development. 
+</h1>
 
 ```java
 public String isMe (Person person){
@@ -13,7 +15,7 @@ public String isMe (Person person){
 <br>
 <br>
 
-## Know me acessing:
+## Know me accessing:
 - [Instagram](https://www.instagram.com/joao.pqc)
 - [LinkedIn](https://www.linkedin.com/in/jo%C3%A3o-paulo-queiroz-costa-2b784a358/)
 - [Leetcode](https://leetcode.com/u/5IMQy8234y/)
@@ -21,7 +23,7 @@ public String isMe (Person person){
 <br>
 <br>
 
-### Technologies I know/´m studying
+### Technologies I know/I´m studying
 <br>
 <p align="left">
 
@@ -47,12 +49,6 @@ public String isMe (Person person){
 </p>
 <br>
 
-## Learning
-
-## Now, I'm focusing on studying backend stuff, so I'm developing some simple projects to understand this world.
-
-<br>
-<br>
 
 <p align="center"> 
   <a href="https://joaopauloqc.github.io/Portfolio/">My WebSite</a>
