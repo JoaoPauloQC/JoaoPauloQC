@@ -4,7 +4,7 @@
 
 ```java
 public String isMe (Person person){
-  if (person.lovesCoffee()){
+  if (person.likesCoffee()){
     return "It´s me!"
   }else{
     return "It´s not me"
